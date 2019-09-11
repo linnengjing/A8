@@ -80,8 +80,9 @@
 
 * [功能按键](sha-zui-zi-jian/gong-neng-an-jian.md)
 * [信号测试](sha-zui-zi-jian/xin-hao-ce-shi.md)
+* [报警说明](sha-zui-zi-jian/bao-jing-shuo-ming.md)
 
 ## 交叉式生克
 
-* [Untitled](jiao-cha-shi-sheng-ke/untitled.md)
+* [待写](jiao-cha-shi-sheng-ke/untitled.md)
 
