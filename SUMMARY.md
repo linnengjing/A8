@@ -86,3 +86,9 @@
 
 * [待写](jiao-cha-shi-sheng-ke/untitled.md)
 
+## 穿线板式（钢丝）起底板
+
+* [机械结构](chuan-xian-ban-shi-gang-si-qi-di-ban/ji-xie-jie-gou.md)
+* [传动机制](chuan-xian-ban-shi-gang-si-qi-di-ban/chuan-dong-ji-zhi.md)
+* [操作说明](chuan-xian-ban-shi-gang-si-qi-di-ban/cao-zuo-kong-zhi.md)
+
