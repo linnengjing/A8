@@ -1,6 +1,6 @@
 # 起底板相关参数
 
-[卸片罗拉](qi-di-ban-xiang-guan-can-shu.md#xie-pian-luo-la)   
+ [卸片罗拉](qi-di-ban-xiang-guan-can-shu.md#xie-pian-luo-la)   
 [罗拉打开修正](qi-di-ban-xiang-guan-can-shu.md#luo-la-da-kai-xiu-zheng)
 
 ## 帮助说明

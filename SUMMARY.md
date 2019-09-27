@@ -90,5 +90,6 @@
 
 * [机械结构](chuan-xian-ban-shi-gang-si-qi-di-ban/ji-xie-jie-gou.md)
 * [传动机制](chuan-xian-ban-shi-gang-si-qi-di-ban/chuan-dong-ji-zhi.md)
-* [操作说明](chuan-xian-ban-shi-gang-si-qi-di-ban/cao-zuo-kong-zhi.md)
+* [起底板测试](chuan-xian-ban-shi-gang-si-qi-di-ban/cao-zuo-kong-zhi.md)
+* [起底板设置](chuan-xian-ban-shi-gang-si-qi-di-ban/qi-di-ban-she-zhi.md)
 
