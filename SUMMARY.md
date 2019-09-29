@@ -84,7 +84,8 @@
 
 ## 交叉式生克
 
-* [待写](jiao-cha-shi-sheng-ke/untitled.md)
+* [简介](jiao-cha-shi-sheng-ke/untitled.md)
+* [参数设置](jiao-cha-shi-sheng-ke/can-shu-she-zhi.md)
 
 ## 穿线板式（钢丝）起底板
 
