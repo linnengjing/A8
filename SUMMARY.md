@@ -27,6 +27,7 @@
     * [厂标文件输入](wen-jian-guan-li/qi-ta-gong-neng/chang-biao-wen-jian-shu-ru.md)
     * [分期付款 -＞](wen-jian-guan-li/qi-ta-gong-neng/fen-qi-fu-kuan/README.md)
       * [分期付款设置](wen-jian-guan-li/qi-ta-gong-neng/fen-qi-fu-kuan/fen-qi-fu-kuan-she-zhi.md)
+      * [分期加密](wen-jian-guan-li/qi-ta-gong-neng/fen-qi-fu-kuan/fen-qi-jia-mi.md)
       * [成组数据导出](wen-jian-guan-li/qi-ta-gong-neng/fen-qi-fu-kuan/cheng-zu-shu-ju-dao-chu.md)
       * [成组解锁操作](wen-jian-guan-li/qi-ta-gong-neng/fen-qi-fu-kuan/cheng-zu-jie-suo-cao-zuo.md)
       * [分期付款查询](wen-jian-guan-li/qi-ta-gong-neng/fen-qi-fu-kuan/fen-qi-fu-kuan-cha-xun.md)
